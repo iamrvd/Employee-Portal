@@ -1,0 +1,85 @@
+[{
+	"firstName": "Michael",
+	"lastName": "Scott",
+	"designation": "Regional Manager",
+	"quote": "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.",
+	"cast":"Steve Carell",
+	"image": "static/person1.jpg"
+}, {
+	"firstName": "Pam",
+	"lastName": "Beesly",
+	"designation": "Receptionist",
+	"quote": "I feel God in this Chilli's tonight.",
+	"cast":"Jenna Fischer",
+	"image": "static/person2.jpg"
+}, {
+	"firstName": "Jim",
+	"lastName": "Halpert",
+	"designation": "Sales Executive",
+	"quote": "Fact: Bears eat beets. Bears. Beets. Battlestar Galactica.",
+	"cast":"John Krasinski",
+	"image": "static/person3.jpg"
+}, {
+	"firstName": "Andy",
+	"lastName": "Bernard",
+	"designation": "Sales Executive",
+	"quote": "Hey Tuna!",
+	"cast":"Ed Helms",
+	"image": "static/person4.jpg"
+}, {
+	"firstName": "Angela",
+	"lastName": "Martin",
+	"designation": "Accountant",
+	"quote": "If you pray enough you can change yourself into a cat person.",
+	"cast":"Angela Kinsey",
+	"image": "static/person5.jpg"
+}, {
+	"firstName": "Kelly",
+	"lastName": "Kapoor",
+	"designation": "Customer Service Representative",
+	"quote": "I have a lot of questions. Number one, how dare you?",
+	"cast":"Mindy Kaling",
+	"image": "static/person6.jpg"
+}, {
+	"firstName": "Dwight",
+	"lastName": "Schrute",
+	"designation": "Assistant to the Regional Manager",
+	"quote": "Whenever I'm about to do something, I think 'Would an idiot do that?' And if they would, I do not do that thing",
+	"cast":"Rainn Wilson",
+	"image": "static/person7.jpg"
+}, {
+	"firstName": "Kevin",
+	"lastName": "Malone",
+	"designation": "Accountant",
+	"quote": "Me think, why waste time say lot word, when few word do trick.",
+	"cast":"Brian Baumgartner",
+	"image": "static/person8.jpg"
+}, {
+	"firstName": "Ryan",
+	"lastName": "Howard",
+	"designation": "Management Intern",
+	"quote": "I’d rather she be alone than with somebody. Is that love?",
+	"cast":"B.J. Novac",
+	"image": "static/person9.jpg"
+}, {
+	"firstName": "Creed",
+	"lastName": "Bratton",
+	"designation": "Quality Assurance Manager",
+	"quote": "Nobody Steals From Creed Bratton And Gets Away With It. The Last Person To Do This Disappeared. His Name? Creed Bratton.",
+	"cast":"Creed Bratton",
+	"image": "static/person10.jpg"
+}, {
+	"firstName": "Phyllis",
+	"lastName": "Lapin",
+	"designation": "Sales Executive",
+	"quote": "I just think we all deserve to be with someone who wants to be with us.",
+	"cast":"Phyllis Smith",
+	"image": "static/person11.jpg"
+}, {
+	"firstName": "Oscar",
+	"lastName": "Martinez",
+	"designation": "Accountant",
+	"quote": "Actually...",
+	"cast":"Oscar Nunez",
+	"image": "static/person12.jpg"
+}]
